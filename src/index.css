@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Raleway:wght@900&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+ .background-img{
+  /* background-image: url('../public/images/rickmortybackground.svg');  */
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  
+}
+a{
+  color: #fff !important;
+  text-decoration: none!important;
+}
+.title-font{
+  font-family: 'Eater', cursive;
+  color: #10aec6!important;
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: #b2df28; 
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.btn-primary{
+  background-color: #10aec6 !important;
+  border-color: #10aec6 !important;
+}
+.btn-outline-primary {
+  color: #10aec6 !important;
+  border-color: #10aec6 !important;
+}
+.btn-outline-primary:hover{
+  background-color: #b3f2ff !important;
+}
+/* .btn-outline-primary:active{
+  background-color: #10aec6 !important;
+} */
+.x:checked + label {
+  background-color: #10aec6!important;
+  color: white!important;
+}
+.navbar-light .navbar-toggler {
+  color: #b2df28 !important;
+  border-color: #b2df28 !important;
+}
+.greentext{
+  color: #b2df28 !important;
+}
+.bluetext{
+  color: #10aec6!important;
+}
+.accordion-body {
+  background-color: aliceblue;
+}
+.accordion-button:not(.collapsed) {
+  color: #0dcaf0!important;
+}
+.page-item.active .page-link{
+  background-color: #0dcaf0!important;
+  border-color: #0dcaf0!important;
+}
+.page-link{
+    color: #f2f3f5!important;
+    background-color: transparent!important;
+    border: 1px solid #dee2e6!important;
+}
+
+
+/* /////////////////////////////////////////// */

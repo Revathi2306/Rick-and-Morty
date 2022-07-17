@@ -1,0 +1,19 @@
+$radius: 10px;
+.card{
+    border: 3px solid #10aec6;
+    border-radius: 10px;
+}
+.badge{
+    top : 10px;
+    right: 20px;
+    font-size: 17px;
+}
+.content{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.img{
+    border-radius: 10px 10px 0 0;
+}
