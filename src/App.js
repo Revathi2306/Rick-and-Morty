@@ -17,6 +17,7 @@ function App(){
     <Router> 
     <div className="App background-img">
     <Navbar/>
+    <Home/>
     </div>
 
     <Routes>
